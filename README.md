@@ -28,6 +28,7 @@
 * Gemini CLI：需要安装官方或第三方的 Gemini 命令行工具，并完成配置。
     ```bash
     brew install gemini-cli
+    gemini
     ```
 
 * [Scholar-Inbox](https://www.scholar-inbox.com/) 注册，并更新相关的preferences，同时打开订阅邮件权限
@@ -60,6 +61,9 @@ gemini
 
 将bash_run.sh, bash_run_auto.sh以及get_arxiv_url.py中的路径修改为你本地的路径
 
+### 5. Proxy
+
+打开系统代理TUN模式
 
 ### 5. 使用方法
 
