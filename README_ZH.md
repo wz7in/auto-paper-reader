@@ -31,6 +31,7 @@
 * Gemini CLI：需要安装官方或第三方的 Gemini 命令行工具，并完成配置。
     ```bash
     brew install gemini-cli
+    brew install poppler
     gemini
     ```
 

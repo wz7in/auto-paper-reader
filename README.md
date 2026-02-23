@@ -31,6 +31,7 @@ Before running this workflow, please ensure your Mac has the following environme
 * Gemini CLI: requires the official or third-party Gemini CLI tool to be installed and configured.
     ```bash
     brew install gemini-cli
+    brew install poppler
     gemini
     ```
 
